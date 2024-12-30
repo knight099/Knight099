@@ -2,7 +2,7 @@
 
 **Software Engineer | Backend Developer | Microservices Enthusiast**
 
-Welcome to my GitHub profile! I'm Vaibhaw Krishna, a passionate software engineer specializing in backend development and microservices architecture. I enjoy building scalable and efficient applications, and I'm always eager to explore new technologies and contribute to open-source projects.
+I'm Vaibhaw Krishna, a passionate software engineer specializing in backend development and microservices architecture. I enjoy building scalable and efficient applications, and I'm always eager to explore new technologies and contribute to open-source projects.
 
 ## 🔧 Technologies & Tools
 
