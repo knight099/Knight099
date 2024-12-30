@@ -30,7 +30,7 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 
 Here are some of my notable projects:
 
-### [Plant AI Assistant](https://github.com/Knight069/plant-ai-assistant)
+### [Plant AI Assistant]([https://github.com/Knight069/plant-ai-assistant](https://github.com/Knight069/Plant-Identifier))
 
 An AI-powered assistant that provides plant care guidance using advanced machine learning algorithms.
 
