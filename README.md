@@ -9,7 +9,6 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 - **Email:** kvaibhaw300@gmail.com
 - **LinkedIn:** [Vaibhaw Krishna](https://www.linkedin.com/in/vaibhaw-krishna-0b1a1b1b7/)
 
-
 ## 🔧 Technologies & Tools
 
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -20,6 +19,7 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 
 ## 📈 GitHub Stats
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Knight069&theme=radical)
 ![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight069&show_icons=true&theme=radical)
 
 ## 🚀 Projects
