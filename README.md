@@ -26,35 +26,6 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Knight069&color=blue&style=flat-square)
 
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-### [Plant AI Assistant]([https://github.com/Knight069/plant-ai-assistant](https://github.com/Knight069/Plant-Identifier))
-
-An AI-powered assistant that provides plant care guidance using advanced machine learning algorithms.
-
-- **Technologies:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Gemini AI API](https://img.shields.io/badge/Gemini%20AI%20API-FF6F61?style=flat-square&logo=ai&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### [JurisAI](https://github.com/Knight069/JurisAI)
-
-Revolutionizing the Indian legal system with AI-powered tools for legal documentation and analysis.
-
-- **Technologies:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### [E-commerce Microservice](https://github.com/Knight069/ecommerce-microservice)
-
-An e-commerce platform built using Flask, demonstrating microservices architecture.
-
-- **Technologies:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### [Employee Management System](https://github.com/Knight069/Employee-management)
-
-A comprehensive HR management tool featuring an admin dashboard for handling employee data, attendance, and leave applications.
-
-- **Technologies:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-
 
 ::contentReference[oaicite:0]{index=0}
  
