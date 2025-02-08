@@ -7,7 +7,7 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 ## 📫 Contact Me
 
 - **Email:** kvaibhaw300@gmail.com
-- **LinkedIn:** [Vaibhaw Krishna](https://www.linkedin.com/in/vkrishna069/)
+- **LinkedIn:** [Vaibhaw Krishna](https://www.linkedin.com/in/vkrishna0/)
 
 ## 🔧 Technologies & Tools
 
