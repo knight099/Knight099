@@ -19,8 +19,8 @@ I'm Vaibhaw Krishna, a passionate software engineer specializing in backend deve
 
 ## 📈 GitHub Stats
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Knight069&theme=radical)
-![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight069&show_icons=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Knight099&theme=radical)
+![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight099&show_icons=true&theme=radical)
 
 ### 👀 Profile Visits
 
