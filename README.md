@@ -6,8 +6,7 @@ Experienced software engineer specializing in backend development and microservi
 
 ## 📫 Contact Me
 
-- **Email:** kvaibhaw300@gmail.com
-- **LinkedIn:** [Vaibhaw Krishna](https://www.linkedin.com/in/vkrishna0/)
+
 
 ## 🔧 Technologies & Tools
 
