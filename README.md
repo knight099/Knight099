@@ -17,13 +17,16 @@ Experienced software engineer specializing in backend development and microservi
 
 ## 📈 GitHub Stats
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Knight099&theme=radical)
-![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight099&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knight099&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Knight099&theme=dark)
+![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight099&show_icons=true&theme=dark)
 
 ### 👀 Profile Visits
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Knight069&color=blue&style=flat-square)
 
 
-::contentReference[oaicite:0]{index=0}
+
  
